@@ -63,7 +63,7 @@ export default function RootLayout({
         />
         <header className="topbar">
           <div className="wrap">
-            <a className="brand" href="/">Mujahid Mridha</a>
+            <a className="brand" href="/" aria-label="Home"><span className="logo" aria-hidden="true">M</span></a>
             <nav className="topnav" aria-label="Sections">
               <ul>
                 <li><a href="/#work">Work</a></li>
