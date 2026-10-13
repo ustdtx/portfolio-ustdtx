@@ -80,7 +80,7 @@ export default function Home() {
             <div className="links">
               <a className="btn" href={profile.github} rel="me noopener" target="_blank">GitHub</a>
               <a className="btn" href={profile.codewars} rel="me noopener" target="_blank">Codewars</a>
-              <a className="btn" href="/Mujahidul-Islam-Mridha-CV-Work.pdf" download>CV</a>
+              <a className="btn" href="/Mujahidul-Islam-Mridha-CV.pdf" download>CV</a>
             </div>
           </div>
         </section>

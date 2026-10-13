@@ -50,8 +50,7 @@ export default function AboutPage() {
           </div>
 
           <div className="links intro-links" style={{ display: "flex", flexWrap: "wrap", gap: "0.75rem", marginTop: "2.5rem" }}>
-            <a className="btn solid" href="/Mujahidul-Islam-Mridha-CV-Work.pdf" download>CV with work links</a>
-            <a className="btn" href="/Mujahidul-Islam-Mridha-CV-Projects.pdf" download>CV with side projects</a>
+            <a className="btn solid" href="/Mujahidul-Islam-Mridha-CV.pdf" download>Download CV</a>
           </div>
         </div>
       </section>
