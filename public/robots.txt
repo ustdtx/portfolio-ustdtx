@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portfolio-ustdtx.vercel.app/sitemap.xml
